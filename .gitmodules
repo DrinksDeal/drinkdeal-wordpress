@@ -1,0 +1,6 @@
+[submodule "wordpress"]
+	path = wordpress
+	url = git://github.com/WordPress/WordPress.git
+[submodule "wordpressv2"]
+	path = wordpressv2
+	url = git://github.com/WordPress/WordPress.git
